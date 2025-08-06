@@ -97,8 +97,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhojit123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhojit123&show_icons=true&locale=en" alt="GitHub Stats" />
+<p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shubhojit123&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" />
 </p>
 
 <p>
