@@ -26,9 +26,9 @@
 
 <!-- Icons -->
 <p align="left">
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design_Logo.svg" alt="ant-design" width="40" height="40"/>
-  </a>
+   <a href="https://ant.design/" target="_blank" rel="noreferrer">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design_Logo.svg" alt="ant-design" width="40" height="40"/>
+   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
