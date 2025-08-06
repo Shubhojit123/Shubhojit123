@@ -21,14 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-
-<!-- Icons -->
 <p align="left">
-   <a href="https://ant.design/" target="_blank" rel="noreferrer">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design_Logo.svg" alt="ant-design" width="40" height="40"/>
-   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
@@ -100,28 +93,14 @@
   </a>
 </p>
 
----
-
-<h2>📊 GitHub Stats:</h2>
-
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhojit123&theme=dark&show_icons=true&hide_border=false&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubhojit123&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shubhojit123&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhojit123&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhojit123&theme=dark&layout=compact&hide_border=false" alt="Top Languages" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojit123" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=shubhojit123&icon=0&color=0" alt="Visitor Count" />
-  </a>
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
