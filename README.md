@@ -24,7 +24,7 @@
 
 <!-- Badge-style Ant Design -->
 <p align="left">
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" alt="Ant Design Badge" />
+  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
 </p>
 
 <!-- Icons -->
