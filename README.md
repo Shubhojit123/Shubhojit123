@@ -102,5 +102,5 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhojit123" alt="GitHub Streak" />
+   <img src="https://github-readme-stats.vercel.app/api?username=shubhojit123&theme=dark&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </p>
