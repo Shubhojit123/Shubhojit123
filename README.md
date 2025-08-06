@@ -22,10 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Badge-style Ant Design -->
-<p align="left">
-  <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-</p>
+
 
 <!-- Icons -->
 <p align="left">
