@@ -102,5 +102,5 @@
 </p>
 
 <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=shubhojit123&theme=dark&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=shubhojit123&show_icons=true&locale=en&layout=compact" alt="GitHub Stats" />
 </p>
